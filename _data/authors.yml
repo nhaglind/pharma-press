@@ -1,0 +1,33 @@
+pharma:
+  username: pharma
+  name: Pharma
+  url_full: #
+  url: #
+  bio: Company user.
+  picture: # assets/images/logo.png
+  facebook: #
+  twitter: #
+  cover: False
+nick:
+  username: nick
+  name: Nick
+  location: # London, UK
+  url_full: # 
+  url: #
+  bio: Developer.
+  picture: # assets/images/nick.jpg
+  facebook: False
+  twitter: # 
+  cover: # assets/images/nick-cover.jpg
+travis:
+  username: travis
+  name: Travis
+  location: # 
+  url_full: # 
+  url: # 
+  bio: Writer.
+  picture: # 
+  facebook: False
+  twitter: # 
+  cover: # 
+  
