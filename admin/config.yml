@@ -6,8 +6,8 @@ backend:
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - name: "admin/collections/blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -19,3 +19,4 @@ collections:
       - {label: "Tags", name: "tags", widget: "tag"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Author", name: "author", widget: "relation", collection: "authors"}
+
