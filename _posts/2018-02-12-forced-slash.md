@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/wallhaven-432994.jpg
+cover: /assets/images/wallhaven-432994.jpg
 navigation: true
 title: Forced Slash
 tags: [pharmaceuticals]
