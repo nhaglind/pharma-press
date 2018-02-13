@@ -22,3 +22,4 @@ collections:
       - {label: "Class", name: "class", widget: "hidden", default: "post-template"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list"}
