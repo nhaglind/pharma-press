@@ -3,6 +3,6 @@ pharmaceuticals:
   description: False
   cover: False
 medical-devices:
-  name: medical-devices
+  name: medical devices
   description: False
   cover: False

@@ -6,7 +6,7 @@ navigation: true
 title: Testing Tags
 date: 2018-02-13T16:09:56.004Z
 class: post-template
-author: nick
+author: freya
 tags:
   - pharmaceuticals
 ---

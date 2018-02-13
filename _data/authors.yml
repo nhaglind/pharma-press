@@ -1,16 +1,6 @@
-pharma:
-  username: pharma
-  name: Pharma
-  url_full: #
-  url: #
-  bio: Company user.
-  picture: # assets/images/logo.png
-  facebook: #
-  twitter: #
-  cover: False
-nick:
-  username: nick
-  name: Nick
+freya:
+  username: freya
+  name: Freya Crescent
   location: # London, UK
   url_full: # 
   url: #
@@ -19,9 +9,9 @@ nick:
   facebook: False
   twitter: # 
   cover: # assets/images/nick-cover.jpg
-travis:
-  username: travis
-  name: Travis
+amarant:
+  username: amarant
+  name: Amarant Coral
   location: # 
   url_full: # 
   url: # 

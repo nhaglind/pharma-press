@@ -8,4 +8,5 @@ class: page-template
 subclass: 'post page'
 ---
 
-Pharma Press is a site that provides news articles and updates on current litigation surrounding pharmaceutical drugs and medical devices. Information obtained here is purely information and should not be taken as medical or legal advice. Please seek a licensed professional for guidance. 
+Hodor hodor HODOR! Hodor hodor, hodor. Hodor hodor, hodor, hodor hodor. Hodor hodor - hodor... Hodor hodor hodor, hodor. Hodor hodor... Hodor hodor hodor. Hodor. Hodor hodor - hodor, hodor. Hodor hodor... Hodor hodor hodor, hodor, hodor hodor. Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor... Hodor hodor hodor... Hodor hodor hodor - hodor?! Hodor, hodor. Hodor. Hodor, hodor, hodor. Hodor hodor hodor hodor hodor hodor hodor hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor, hodor. Hodor hodor.
+
