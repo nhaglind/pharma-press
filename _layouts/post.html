@@ -28,12 +28,12 @@ into the {body} of the default.hbs template -->
                 <section class="post-full-meta">
                     <time class="post-full-meta-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
                     {% if page.tags.size > 0 %}
-                        <span class="date-divider">/</span>
+                        <span class="date-divider"></span>
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <a href='/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                            <span class="date-divider"> </span><a href='/tag/{{ tag | downcase | replace: ' ', '-' }}/'> {{ tag | upcase }}</a>
                             {% else %}
-                               <a href='/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
+                            <a href='/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a> 
                             {% endif %}
                         {% endfor %}
                     {% endif %}
