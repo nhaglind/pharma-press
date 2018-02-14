@@ -10,7 +10,7 @@ baseurl: ""
 # Website info
 title: Pharma Press
 description: Blog dedicated to providing the latest updates on pharmaceutical litigation.
-cover: assets/images/blog-cover-3.png
+cover: assets/images/blog-cover-3.jpg
 logo: # assets/images/pharma-press.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
