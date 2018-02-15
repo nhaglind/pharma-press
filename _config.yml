@@ -72,8 +72,11 @@ repo: spectre-brief
 branch: master
 relative_source: ../
 destination: _site/
-production_url: # 
-source_url: # 
+production_url: https://spectrebrief.netlify.com/
+source_url: https://github.com/nhaglind/spectre-brief
+
+site:
+  url: https://spectrebrief.netlify.com/
 
 exclude:
   - README.md
