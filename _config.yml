@@ -14,8 +14,8 @@ cover: assets/images/blog-cover-3.jpg
 logo: # assets/images/pharma-press.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: http://pharma-press.netlify.com/
-source_url: # https://github.com/myJekyll/jasper2/
+production_url: # https://spectrebrief.netlify.com/
+source_url: # https://github.com/nhaglind/spectre-brief
 
 # Social info
 navigation: True # show the navbar links
@@ -68,7 +68,7 @@ feed:
 safe: False
 lsi: False
 username: nhaglind
-repo: pharma-press
+repo: spectre-brief
 branch: master
 relative_source: ../
 destination: _site/
