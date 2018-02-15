@@ -8,3 +8,5 @@ class: page-template
 subclass: 'post page'
 permalink: /write-for-us
 ---
+
+Currently not accepting additional writers.
